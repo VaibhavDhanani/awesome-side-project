@@ -143,6 +143,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Supabase](https://supabase.io/) - open-source Firebase alternative relying on PostgreSQL instead of a NoSQL db.
 
     [Pricing](https://supabase.io/pricing): A plenty of features included in Free plan.
+    
+-   [Neon](https://neon.com/) - Neon is a modern, serverless cloud database built on PostgreSQL—enabling fast, scalable development with features like instant branching, autoscaling to zero, and developer-friendly workflows.
+
+    [Pricing](https://neon.com/pricing): A plenty of features included in Free plan (20 projects,Autoscaling,Read replicas,Built-in high availability).
 
 -   [Prisma](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
 
