@@ -144,9 +144,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://supabase.io/pricing): A plenty of features included in Free plan.
 
--   [prisma.io](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
+-   [Prisma](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
 
-    Pricing: Free and open-source.
+    [Pricing](https://www.prisma.io/pricing): Free and open-source.
 
 -   [Encore](https://encore.dev/) - Cloud Native Development Platform with code generation through static analysis. Built in CI/CD, databases, tracing, and secrets.
 
@@ -154,7 +154,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 -   [Hook0](https://www.hook0.com/) - open-source webhook server to integrate into your project.
 
-    Pricing: Free and open-source. SaaS version also has a free tier.
+    [Pricing](https://www.hook0.com/?pricing.destination=cloud#pricing): Free and open-source. SaaS version also has a free tier.
 
 #### Headless CMSs
 
